@@ -1,0 +1,42 @@
+[
+    {
+        "id": "BarrasPortaequipaje",
+        "titulo": "Barras Portaequipaje",
+        "imagen": "./IMG/barras50.jpg",
+        "categoria": {
+            "nombre": "Barras Portaequipaje",
+            "id": "BarrasPortaequipaje"
+        },
+        "precio": 120000
+    },
+    {
+        "id": "BarrasPortaequipajeNegras",
+        "titulo": "Barras Portaequipaje Negras",
+        "imagen": "./IMG/BarrasPortaequipajeNegras.jpg",
+        "categoria": {
+            "nombre": "Barras Portaequipaje Negras",
+            "id": "BarrasPortaequipajeNegras"
+        },
+        "precio": 90000
+    },
+    {
+        "id": "RaquetasDeNienveNegras",
+        "titulo": "Raquetas de Nieve Negras",
+        "imagen": "./IMG/RaquetasDeNieveNegras.jpeg",
+        "categoria": {
+            "nombre": "Raquetas de Nieve Negras",
+            "id": "RaquetasDeNienveNegras"
+        },
+        "precio": 150000
+    },
+    {
+        "id": "Valija410",
+        "titulo": "Valija 410lts",
+        "imagen": "./IMG/Valija410.jpg",
+        "categoria": {
+            "nombre": "Valija 410lts",
+            "id": "Valijas"
+        },
+        "precio": 350000
+    }
+]
